@@ -1,0 +1,24 @@
+.vercel
+.env*.local
+
+# --- safety block ---
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+node_modules/
+build/
+dist/
+.vercel/
+.netlify/
+.env
+.env.local
+*.log
+tmp/
+*.zip
+*.exe
+*.pth
+.license.key
+*.db
+

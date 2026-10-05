@@ -1,0 +1,797 @@
+[
+  {
+    "id": "isms_tools",
+    "title": "ISMS Tools",
+    "description": "Core ISMS Operational Tools",
+    "links": [
+      {
+        "id": "gtbank_intranet",
+        "name": "GTBank Intranet",
+        "url": "https://gtintranet.gtbank.com/",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "qradar",
+        "name": "Qradar",
+        "url": "https://10.240.240.92/console/core/jsp/Main.jsp",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "qrader_dr",
+        "name": "Qrader DR",
+        "url": "https://10.3.0.17/console/logon.jsp?loadback=ba2a5c9b-b6be-4a01-ae87-fbb2d03879e9",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "paloalto_networks",
+        "name": "PaloAlto Networks",
+        "url": "https://10.240.240.84/#dashboard::vsys1",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "palo_alto_ha",
+        "name": "Palo Alto HA",
+        "url": "https://10.240.240.83/php/login.php#dashboard::vsys1",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "incapsula_login",
+        "name": "Incapsula Login",
+        "url": "https://my.incapsula.com/admin/login",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "nnt_changetracker_generation_7",
+        "name": "NNT ChangeTracker Generation 7",
+        "url": "https://10.240.240.63:4443/",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "algo_sec",
+        "name": "ALgo Sec",
+        "url": "https://10.240.240.70/algosec/suite/login.html",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "mx_lookup_tool___check_your_dns_mx_records_online___mxtoolbox",
+        "name": "MX Lookup Tool - Check your DNS MX Records online - MxToolbox",
+        "url": "https://mxtoolbox.com/",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "cuckoo_sandbox",
+        "name": "Cuckoo Sandbox",
+        "url": "https://cuckoo.ee/",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "pam",
+        "name": "PAM",
+        "url": "https://10.81.0.78/Login",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "10_240_240_125___ixia_vision_one",
+        "name": "IXIA Vision One",
+        "url": "https://10.240.240.125:8000/console/NtoUI/index.html",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "symantec_log_in",
+        "name": "Symantec Log In",
+        "url": "https://identity.symanteccloud.com/Logon",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "symantec_endpoint_protection_manager",
+        "name": "Symantec Endpoint Protection Manager",
+        "url": "https://10.0.20.140:8443/console/apps/sepm",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "https___10_0_20_88_protectmanager_logon",
+        "name": "ProtectManager",
+        "url": "https://10.0.20.88/ProtectManager/Logon",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "netflow_analyser_manageengine_opmanager",
+        "name": "Netflow Analyser ManageEngine OpManager",
+        "url": "https://10.240.240.57/",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "symantec_dlp",
+        "name": "Symantec DLP",
+        "url": "https://10.0.20.88/ProtectManager/Logon",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "webex",
+        "name": "WEBEX",
+        "url": "https://gtbank-tech1.webex.com/webappng/sites/gtbank-tech1/dashboard?siteurl=gtbank-tech1",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "nutanix",
+        "name": "Nutanix",
+        "url": "https://10.241.245.100:9440/console/#page/dashboard",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "cortex_xdr",
+        "name": "Cortex XDR",
+        "url": "https://orangeshipbox.xdr.de.paloaltonetworks.com/dashboard?id=1",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "cortex_xdr_broker",
+        "name": "Cortex XDR Broker",
+        "url": "https://10.1.100.68:4443/#/login",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "dam_dr",
+        "name": "DAM DR",
+        "url": "https://10.254.253.78:8083/SecureSphere/app/#sites",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "dam_dc",
+        "name": "DAM DC",
+        "url": "https://10.240.240.180:8083/SecureSphere/secsphLogin.jsp#agents",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "dam_new_dc",
+        "name": "DAM New DC",
+        "url": "https://10.0.73.110:8083/SecureSphere/secsphLogin.jsp#user_details",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "dam_new_dr",
+        "name": "DAM New DR",
+        "url": "https://10.0.73.120:8083/SecureSphere/secsphLogin.jsp",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "forcepoint_security_manager",
+        "name": "Forcepoint Security Manager",
+        "url": "https://10.0.20.40:9443/manager/login/pages/loginPage.jsf",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "spur",
+        "name": "SPUR",
+        "url": "https://adselfservice.gtbank.com:9999/accounts/authVerify?operation=unlock",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "imperva_ftp",
+        "name": "Imperva Ftp",
+        "url": "https://ftp-eu.imperva.com/#/Downloads/SecureSphere_Agents/Misc",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "check_point",
+        "name": "Check Point",
+        "url": "https://portal.checkpoint.com/dashboard",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "reva",
+        "name": "REVA",
+        "url": "https://reva.shelt.com:55449/cybervigilance/web/admin/dashboard",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "elastic_siem",
+        "name": "Elastic SIEM",
+        "url": "https://10.240.240.201/login?next=%2F",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "symantec_data_loss_prevention",
+        "name": "Symantec Data Loss Prevention",
+        "url": "https://10.0.20.72/ProtectManager/enforce/admin/policy/list",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "link_1",
+        "name": "",
+        "url": "https://outlook.live.com/",
+        "description": "",
+        "tags": [
+          "ISMS Tools"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "threat_intelligence",
+    "title": "Threat Intelligence",
+    "description": "Threat Intel resources and tools",
+    "links": [
+      {
+        "id": "abuseipdb",
+        "name": "AbuseIPDB",
+        "url": "https://www.abuseipdb.com/",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "virustotal",
+        "name": "VirusTotal",
+        "url": "https://www.virustotal.com/#/home/upload",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "palo_alto_networks_url_filtering___test_a_site",
+        "name": "Palo Alto Networks URL filtering - Test A Site",
+        "url": "https://urlfiltering.paloaltonetworks.com/",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "sha256_converter",
+        "name": "SHA256 converter",
+        "url": "https://md5calc.com/hash/sha256/acd9fc44001da67f1a3592850ec09cb7",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "d3fend_matrix___mitre_d3fend",
+        "name": "D3FEND Matrix | MITRE D3FEND\u2122",
+        "url": "https://d3fend.mitre.org/",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "mitre_att_amp_ck",
+        "name": "MITRE ATT&amp;CK\u00ae",
+        "url": "https://attack.mitre.org/tactics/enterprise/",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "pimeyes___google_search",
+        "name": "pimeyes - Google Search",
+        "url": "https://www.google.com/search?q=pimeyes&rlz=1C1GCEU_enNG1058NG1058&oq=pime&aqs=chrome.0.0i433i512j69i57j46i433i512j0i512l2j0i131i433i512j0i512l4.3911j0j7&sourceid=chrome&ie=UTF-8",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "foundational___beacon",
+        "name": "Foundational : Beacon",
+        "url": "https://beacon.paloaltonetworks.com/student/catalog/list?category_ids=38394",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "maps",
+        "name": "Maps",
+        "url": "https://maps.google.com/",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "time_converter",
+        "name": "Time converter",
+        "url": "https://www.freeconvert.com/time/eat-to-wat",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "paloalto_beacon",
+        "name": "Paloalto Beacon",
+        "url": "https://beacon.paloaltonetworks.com/student/catalog",
+        "description": "",
+        "tags": [
+          "Threat Intelligence"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "title": "Support",
+    "description": "Support portals and ticketing systems",
+    "links": [
+      {
+        "id": "algosec_portal_support",
+        "name": "AlgoSec Portal Support",
+        "url": "https://portal.algosec.com/login/index.php",
+        "description": "",
+        "tags": [
+          "Support"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "customer_support___palo_alto_networks",
+        "name": "Customer Support - Palo Alto Networks",
+        "url": "https://support.paloaltonetworks.com/SupportAccount/EditProfile/1727454",
+        "description": "",
+        "tags": [
+          "Support"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "nnt_support_tickets",
+        "name": "NNT Support tickets",
+        "url": "https://www.netwrix.com/tickets.html#/tickets/open",
+        "description": "",
+        "tags": [
+          "Support"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "sharepoint",
+    "title": "Sharepoint",
+    "description": "Sharepoint documents and resources",
+    "links": [
+      {
+        "id": "cortex_report_summary_xlsx",
+        "name": "Cortex Report Summary.xlsx",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/fatima_jinadu/EW56h4ItDyRKjPKjGwunRRsBS_3gQAcbQZMd5bPmXVI4GQ?e=JDX72c",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "isms_monthly_gti_report",
+        "name": "ISMS Monthly GTI Report",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/fatima_jinadu/ESSYJbVVOUFPi0qLZAoYoA4BHCYuOTUSm9drg67zpPY9pg?rtime=HsaJkXbb20g",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "isms_tasks",
+        "name": "ISMS Tasks",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/jacobsen_brai/EVqR8j730mBNrYiIAFZRiyEBs4fMmfwVHhMwgPFVLH4Hjw?rtime=Qawr7ODD20g&nav=MTVfezM3QjE2OTRDLTU4MjgtNEUzRC1CQ0I5LTM3NEMxMEYyQThEMX0",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "inspira_alert_check_list_xlsx",
+        "name": "Inspira Alert Check List.xlsx",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/kayode_adewumi/ESX0tJq7PPdPuy8fhHKgEXMBXG40g6yXFz0-hslfNWDplQ?e=4%3Aed3unR&at=9&CID=f445a09f-0480-d3e3-6469-59be2396f657",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "ssh_and_rdp_applications_xlsx",
+        "name": "SSH and RDP applications.xlsx",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/godwin_enendu/Eckvzb5X-8VFnzUsdPjOuMEBbb6kxfxtGBtJ9oE0O1cf5A?e=QkCtVV",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "application_review_uganda",
+        "name": "Application review Uganda",
+        "url": "https://gtbank-my.sharepoint.com/:x:/r/personal/godwin_enendu_gtbank_com/_layouts/15/doc2.aspx?sourcedoc=%7B576B191E-B3E2-4B10-A12C-13C2231B191B%7D&file=Book%204.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1729674685986&ct=1729674687507&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=12061205-5d26-4ef5-a700-fc251b1ab937&cid=8ad7b87c-7f86-4bd6-8da7-c4d3be9c3f97",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "monthly_access_review_xlsx",
+        "name": "Monthly Access Review.xlsx",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/emmanuella_amanie/EdyP_n80mNFApuLxzeCdo9UBG7Bbgj8KiwbvIwrjOop5UQ?rtime=8tbkLNn_3Eg",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "gtpm_servers_and_endpoints_xlsx",
+        "name": "GTPM SERVERS AND ENDPOINTS.xlsx",
+        "url": "https://investmentonepension-my.sharepoint.com/:x:/g/personal/taiwo_owolabi_gtpensionmanagers_com/ETGbOm0Er-BMqJ7QFEg5mysBKzF1ce1wKQ7QZa61Wcvcvg?rtime=cm_JQQvU3Eg",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "server_files_xlsx",
+        "name": "Server_Files.xlsx",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/ifeoluwa_aina/EV5sNL5nwqlGsM2oqZjFw9QBox9leosAwNQBZK4dTCvNyg?rtime=3XJqDVWQ3Eg&CID=4f24a598-c586-e67b-ed22-22c27ae88508",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "uganda_incident_review",
+        "name": "Uganda Incident review",
+        "url": "https://gtbank-my.sharepoint.com/:x:/r/personal/godwin_enendu_gtbank_com/_layouts/15/doc2.aspx?sourcedoc=%7BE58059D2-57F6-437E-B447-31527453C3EB%7D&file=Book%205.xlsx&action=editnew&mobileredirect=true&wdNewAndOpenCt=1731516333816&ct=1731516334732&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=08bf8a08-94af-438f-bae5-49c1a8963ace&cid=b5cdac91-3049-449e-955b-c59e80a45e58",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "fim_server_inventory",
+        "name": "FIM Server Inventory",
+        "url": "https://gtbank-my.sharepoint.com/:x:/p/david_odigie/IQBEa6Qa_YtUR7H05Kr5t_RIAaUXjZFEDyb9SsgeWs54YWE?CID=41dbb579-3657-a972-78b8-1454191990e9&wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1765803597695&web=1",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      },
+      {
+        "id": "fim_templates",
+        "name": "FIM Templates",
+        "url": "https://gtbank-my.sharepoint.com/:x:/r/personal/paul_oreoluwa_gtbank_com/_layouts/15/Doc.aspx?sourcedoc=%7BBE8733EE-4513-4C6D-92C4-9F456BD15E77%7D&file=Device%20Path%20on%20Cimtrak%20FIM%20October%202025.xlsx&action=default&mobileredirect=true",
+        "description": "",
+        "tags": [
+          "Sharepoint"
+        ],
+        "audience": [
+          "All"
+        ],
+        "status": "active"
+      }
+    ]
+  }
+]
